@@ -1,6 +1,6 @@
 # Tip Calculator
 
-Este projeto tem como objetivo calcular quanto cada pessoa deve pagar a conta igualmente.
+This project aims to calculate how much each person should pay the bill equally.
 
 ## O Programa
 

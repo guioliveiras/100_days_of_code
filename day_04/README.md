@@ -1,8 +1,12 @@
 # Banker Roulet
 
+The program in question is designed to randomly select a name from a pre-defined list of names. The selection process is entirely random, and each person on the list has an equal chance of being chosen.
+
+The consequence of being selected is that the person whose name is picked will be responsible for paying for everyone's food bill. This means that if a group of people is eating out at a restaurant or ordering takeout, the person whose name is selected will be required to foot the entire bill, including tax and tip.
+
 ## Instructions
 
-You are going to write a program that will select a random name from a list of names. The person selected will have to pay for everybody's food bill.
+Run the program and enter the names of the people participating in the input box, separating the names with a comma and space.
 
 ## Example Input
 

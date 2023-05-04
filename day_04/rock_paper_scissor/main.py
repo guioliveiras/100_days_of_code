@@ -32,11 +32,12 @@ user_choice = int(
     input("What do you choose:\n 0 - Rock\n 1 - Paper\n 2 - Scissor\n\n"))
 
 if user_choice not in (0, 1, 2):
-    print("Incorrect input")
+    print("Are you STUPID?")
 
 option = [rock, paper, sicssor]
 result = ['Drawn', "You Won", "You Lose"]
 
 x = user_choice - computer_choice
 
-print(f"\nYou choose {option[user_choice]}\n\n Computer Choose {option[computer_choice]}\n\n {result[x]}")
+print(
+    f"\nYou choose {option[user_choice]}\n\n Computer Choose {option[computer_choice]}\n\n {result[x]}")

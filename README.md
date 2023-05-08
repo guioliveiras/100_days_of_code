@@ -18,6 +18,8 @@ Aqui, você poderá acompanhar o meu progresso ao longo do curso, com as aulas e
 
 - Day 3: [Control Flow and Logical Operatos](https://github.com/guioliveiras/100_days_of_code/tree/main/day_03)
 
+- Day 4: [Randomisation and Python List](https://github.com/guioliveiras/100_days_of_code/tree/main/day_04)
+
 ## Considerações Finais
 
 Estou animado para completar o curso "100 Days of Code: The Complete Python Pro Bootcamp" e aprimorar minhas habilidades de programação em Python. Este repositório será atualizado regularmente com meu progresso, projetos e contribuições. Fique à vontade para explorar os arquivos e acompanhar minha jornada de aprendizado!
